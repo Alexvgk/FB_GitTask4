@@ -1,0 +1,9 @@
+# файлы кэша
+Debug/
+Release/
+Releases/
+x64/
+x86/
+bin/
+obj/
+.vs/
